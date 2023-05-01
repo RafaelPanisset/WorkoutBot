@@ -1,6 +1,6 @@
 # Workout Bot
 
-The Workout Bot is a Telegram chatbot that provides users with a random selection of exercises based on the body part they want to work on. The bot was created as a personal project to showcase my skills as a software developer.
+The Workout Bot is a Telegram chatbot that provides users with a random selection of exercises based on the body part they want to work on.
 
 ## Getting Started
 
