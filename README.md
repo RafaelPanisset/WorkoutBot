@@ -1,20 +1,19 @@
 # Workout Bot
 
-The Workout Bot is a Telegram chatbot that provides users with a random selection of exercises based on the body part they want to work on.
+The Workout Bot is a Telegram chatbot that provides users with a random selection of exercises based on the body part they want to work on. 
 
 ## Getting Started
 
 ### Prerequisites
 
-To use the Workout Bot, you'll need to have Python 3.x and the following Python libraries installed:
+To use the Workout Bot, you'll need to have Python 3.x and the following Python library installed:
 
 - telebot
-- python-telegram-bot
 
 ### Installing
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries using pip: `pip install -r requirements.txt`
+2. Install the required Python library using pip: `pip install pyTelegramBotAPI`
 3. In `bot.py`, replace `BOT_TOKEN` with your own Telegram bot token.
 
 ### Running the bot
@@ -27,4 +26,4 @@ The list of exercises is stored in `exercises.py` as a dictionary of lists. Each
 
 ## Acknowledgments
 
-This project was inspired by my passion for fitness and my desire to create useful software tools. I would like to thank the developers of the `telebot` and `python-telegram-bot` libraries for making it easy to create Telegram chatbots using Python.
+This project was inspired by my passion for fitness and my desire to create useful software tools. I would like to thank the developers of the `telebot` library for making it easy to create Telegram chatbots using Python.
