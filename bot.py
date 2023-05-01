@@ -61,7 +61,7 @@ def send_exercises(exercises, chat_id):
         details = exercise['details']
         message = ''
         message += f"<b>{name} ({sets} sets x {reps} reps)</b>\n"
-        message += f"<b>Details:</b><i>{details}</i>\n\n"
+        message += f"<b>Details: </b><i>{details}</i>\n\n"
         bot.send_message(chat_id, message, parse_mode='HTML')
 
 # Start the bot and keep it running indefinitely

@@ -302,7 +302,7 @@ exercises_dict = {
             'details': 'Sit on a bench with your feet on the floor, holding dumbbells in front of your thighs. Raise the dumbbells out to the sides, keeping your elbows slightly bent.'
         },
     ],
-    'Shoulders': [
+    'shoulders': [
         {
             'id': 1,
             'name': 'Arnold Press',
