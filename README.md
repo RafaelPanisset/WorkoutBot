@@ -14,7 +14,7 @@ To use the Workout Bot, you'll need to have Python 3.x and the following Python 
 
 1. Clone the repository to your local machine.
 2. Install the required Python library using pip: `pip install pyTelegramBotAPI`
-3. In `bot.py`, replace `BOT_TOKEN` with your own Telegram bot token.
+3. In `bot.py`, replace `YOUR_BOT_TOKEN` with your own Telegram bot token.
 
 ### Running the bot
 
